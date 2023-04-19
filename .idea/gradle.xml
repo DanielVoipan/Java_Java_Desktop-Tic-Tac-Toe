@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Desktop Tic-Tac-Toe/task" />
+            <option value="$PROJECT_DIR$/Desktop Tic-Tac-Toe/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Desktop Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Desktop Tic-Tac-Toe/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Desktop Tic-Tac-Toe/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Desktop Tic-Tac-Toe/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Desktop Tic-Tac-Toe/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics (1)/Printing data/Digits from 0 to 9 backwards" />
+            <option value="$PROJECT_DIR$/Topics (1)/Printing data/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics (1)/Printing data/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/Topics (1)/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics (1)/Printing data/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics (1)/Timers/Creating a TimerTask" />
+            <option value="$PROJECT_DIR$/Topics (1)/Timers/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Burgers" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Disadvantages of the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Laptop factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Phone factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/What does the pattern do" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder (1)" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Describe the builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Disadvantage of Builder pattern" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Geek Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Robot Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
